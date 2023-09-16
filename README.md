@@ -2,7 +2,7 @@
 
 ## Version: 1.0.0
 
-The ppkg (Portable Package) file format is a container format for storing compressed data along with metadata. This specification defines the structure and usage of ppkg files without reference to any specific implementation.
+The ppkg (Portable Package) file format is a container format for storing compressed data along with metadata. This specification defines the structure and usage of ppkg files.
 
 ### File Format Overview
 
